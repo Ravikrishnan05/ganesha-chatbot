@@ -1,0 +1,9 @@
+# requirements.txt
+# requirements.txt
+streamlit
+streamlit-audiorec  # <-- The correct, ffmpeg-free package
+groq
+python-dotenv
+gtts
+#googletrans==4.0.0-rc1
+deep-translator

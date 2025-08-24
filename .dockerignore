@@ -1,0 +1,8 @@
+# .dockerignore
+
+# Ignore Python virtual environments
+venv/
+__pycache__/
+
+# Ignore the .env file itself - we will provide it at runtime
+.env
